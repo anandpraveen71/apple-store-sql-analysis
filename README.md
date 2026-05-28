@@ -1,6 +1,64 @@
-This section introduces the project as a comprehensive database system specifically designed for Apple Store operations. 
-It highlights its use for efficiently managing data related to stores, products, and sales, ensuring seamless integration across all business facets. 
-The project focuses on implementing robust data management techniques, such as enforcing referential integrity and optimizing data storage, to provide accurate and reliable insights. 
-Additionally, it supports performing advanced analytics, enabling users to evaluate product performance, track sales trends, compare store efficiencies, and make informed, data-driven business decisions. 
-The database also facilitates inventory management, pricing strategy analysis, and customer behavior insights, 
-making it a vital tool for maximizing operational efficiency and profitability in a competitive retail environment.
+# Apple Store SQL Analysis
+
+A PostgreSQL database project focused on Apple Store sales analysis, inventory management, and business insights.
+
+---
+
+## Features
+
+* Store sales analysis
+* Product performance tracking
+* Inventory management
+* SQL window functions
+* Stored procedures
+* Business reporting queries
+
+---
+
+## Technologies Used
+
+* PostgreSQL
+* SQL
+* CSV Datasets
+
+---
+
+## Project Files
+
+| File                   | Description              |
+| ---------------------- | ------------------------ |
+| schemas.sql            | Database schema creation |
+| stored procedure.sql   | Stored procedures        |
+| windowFunction.sql     | Window function queries  |
+| AppleProjectCode.sql   | Main SQL project queries |
+| applestore.csv         | Store dataset            |
+| apple_products_csv.csv | Product dataset          |
+
+---
+
+## Business Insights
+
+This project helps analyze:
+
+* Sales trends
+* Product performance
+* Inventory efficiency
+* Store operations
+* Pricing analysis
+
+---
+
+## Skills Demonstrated
+
+* Database Design
+* SQL Query Optimization
+* Data Analysis
+* Window Functions
+* Stored Procedures
+* Business Intelligence
+
+---
+
+## Author
+
+Praveen Kumar
